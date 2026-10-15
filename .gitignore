@@ -1,3 +1,4 @@
 vuln-report.html
 *.html
 sbom*.json
+__pycache__/
